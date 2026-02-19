@@ -1,0 +1,14 @@
+{
+    "Ravi": {
+        "age": 21,
+        "marks": 85
+    },
+    "Anu": {
+        "age": 20,
+        "marks": 95
+    },
+    "Kiran": {
+        "age": 22,
+        "marks": 83
+    }
+}
